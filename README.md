@@ -23,6 +23,3 @@
 
 ```bash
 pip install -r requirements.txt
-
----
-Porter Anderson
